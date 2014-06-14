@@ -14,8 +14,8 @@ import java.util.List;
 import java.util.Stack;
 
 public class ADS {
-	public String fileName1;
-	public String fileName2;
+	private String fileName1;
+	private String fileName2;
 
 	public static void main(String[] args) {
 		// checks whether we have passed the file names as arguments or not
