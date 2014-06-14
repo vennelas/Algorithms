@@ -1,3 +1,9 @@
+/**
+* The longest common sequence matching algorithm implementation in java. 
+*@author Vennela Sunnam
+*/
+
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
